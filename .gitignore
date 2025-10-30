@@ -1,0 +1,25 @@
+# Build artifacts
+/build/
+CMakeFiles/
+CMakeCache.txt
+Makefile
+*.cmake
+
+# Object & binary files
+*.o
+*.a
+*.so
+*.out
+*.exe
+
+# Logs and temp files
+*.log
+*.err
+*.swp
+
+# OS-specific junk
+.DS_Store
+Thumbs.db
+
+# Python cache (if you visualize in Python later)
+__pycache__/
